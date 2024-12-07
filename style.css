@@ -1,0 +1,40 @@
+body {
+    margin:0;
+    font-family: sans-serif;
+}
+
+h1 {
+    font-size: 40px;
+    color:#481677;
+}
+
+.inf{
+    font-size: 20px;
+    font-weight: 700;
+    color:#481677;
+}
+
+p{
+    width: 70%;
+}
+
+main{
+   margin-left: 180px;
+}
+
+.fa fa-home{
+    position: absolute;
+    width: 90px;
+    background-color: #caff82;
+}
+
+.fa fa-search{
+    display: block;
+    text-align: center;
+    padding: 16px;
+    color: white;
+    font-size: 36px;
+}
+
+
+
